@@ -1,2 +1,1 @@
-# vector_rag
-using vector db and AI agent
+# Vector RAG Demo
