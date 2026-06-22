@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+chroma_db/
+.streamlit/
+streamlit.*.log
